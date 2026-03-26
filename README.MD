@@ -1,0 +1,1 @@
+Application for Cinema showings and tickets sale management
